@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105324253015",
+    "project_id": "app-makemefit",
+    "storage_bucket": "app-makemefit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105324253015:android:81a941621555299de83812",
+        "android_client_info": {
+          "package_name": "com.example.app_makemefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105324253015-rqa8nascdjp85ro3nss0cpabb1q76r6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbAIIMzvP5XfsbKMh041pny3wsIPYniA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105324253015-rqa8nascdjp85ro3nss0cpabb1q76r6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
