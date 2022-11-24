@@ -65,7 +65,7 @@ login.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onSuccess(AuthResult authResult) {
                                 Toast.makeText(login.this, "Login Successful", Toast.LENGTH_SHORT).show();
-                                startActivity(new Intent(login.this, homepage.class));
+                                startActivity(new Intent(login.this, home.class));
                                 finish();
                             }
                         }).addOnFailureListener(new OnFailureListener() {
