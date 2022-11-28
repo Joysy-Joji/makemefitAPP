@@ -4,14 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".shoulder_execise">
+    tools:context=".abdomen_exercise">
 
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="158dp"
-        android:layout_height="24dp"
-        android:text="Abdomen exercise"
-        android:textColor="@color/black"
-        tools:layout_editor_absoluteX="126dp"
-        tools:layout_editor_absoluteY="25dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

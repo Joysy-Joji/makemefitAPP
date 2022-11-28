@@ -27,13 +27,6 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".abdomen_execise"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".shoulder_execise"
             android:exported="false">
             <meta-data

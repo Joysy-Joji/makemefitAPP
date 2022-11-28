@@ -28,7 +28,7 @@ public class home extends AppCompatActivity {
         abdomen.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent d = new Intent(home.this, abdomen_execise.class);
+                Intent d = new Intent(home.this, abdomen_exercise.class);
                 startActivity(d);
             }
         });

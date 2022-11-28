@@ -33,8 +33,8 @@
 
     <LinearLayout
         android:id="@+id/loginpanel"
-        android:layout_width="350dp"
-        android:layout_height="443dp"
+        android:layout_width="296dp"
+        android:layout_height="427dp"
         android:layout_marginTop="29dp"
         android:background="@drawable/shape_login_panel"
         android:orientation="vertical"
